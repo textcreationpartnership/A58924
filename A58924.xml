@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable discourse, shewing that it is the interest of both Papists and Protestants, to serve Their Majesties in the present war against France</title>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58924</idno><idno type="EEBO-CITATION">13142629</idno>
+  <idno type="VID">98011</idno>
+  <idno type="EEBO-PROQUEST">2248533171</idno>
+  
+            <idno type="STC">Wing S2227A</idno>
+            <idno type="STC">ESTC R14749</idno>
+            <idno type="OCLC">13142629</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable discourse, shewing that it is the interest of both Papists and Protestants, to serve Their Majesties in the present war against France</title>
+               </titleStmt>
+               <extent>[2], 8, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: A paradox in season, or, Good news both to Roman Catholics and Protestants.</note>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98011:1"/>
+            <pb facs="tcp:98011:1"/>
+            <p>A Seasonable DISCOURSE, SHEWING, That it is the INTEREST OF BOTH <hi>PAPISTS &amp; PROTESTANTS,</hi> To Serve their MAjESTIES in the Present War AGAINST FRANCE.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed,</hi>
+                           <date>May 15th, 1689.</date>
+                        </p>
+                        <closer>
+                           <signed>J. Fraser.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> next the <hi>Black Bull</hi> in the <hi>Old-Bayly.</hi> MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:98011:2"/>
+            <pb n="1" facs="tcp:98011:2"/>
+            <head>A <hi>Paradox in Season:</hi> OR, Good News BOTH TO <hi>Roman Catholicks</hi> and <hi>Protestants.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE late great and stupendious Revolu<g ref="char:EOLhyphen"/>tion in the State of <hi>Great Britain,</hi> is the Astonishment of the present Age, and will be the Wonder of the next: The generality of Men were (no doubt) strangely surprized at so swift and dexterous a Change of our <hi>English</hi> Scenes, every one gazing on it as a Prodigy, but with different Sentiments and Passions, according to their various Interests, Prepossessions and Prejudices; some looking on it with Delight, others with Horror, but all with Admiration, as not being acquainted with the hidden Springs and origi<g ref="char:EOLhyphen"/>nal Wheels which gave the first Birth to this unpa<g ref="char:EOLhyphen"/>rallel'd Alteration of our Affairs: Nay, most Men are yet to seek, though many are very curious and
+<pb n="2" facs="tcp:98011:3"/>inquisitive in diving into the depth of this Profound MYSTERY: It is not my province or design (were I able) to Unravel the Secret; for I ever was of o<g ref="char:EOLhyphen"/>pinson, that the <hi>Arcana Imperii</hi> ought to be Veild, and not exposed to the Eyes of the Vulgar, but like the <hi>Delphick</hi> Oracles, they should be wrapt up in <hi>Aenig<g ref="char:EOLhyphen"/>matic</hi> Clouds.</p>
+            <p>
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of this <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, is to make such Remarks and Observations on the pre<g ref="char:EOLhyphen"/>sent Posture of Affairs, as may conduce to the Satis<g ref="char:EOLhyphen"/>faction of all Honest and Well-meaning Christians of what Perswasion soever, my Aim being to Com<g ref="char:EOLhyphen"/>pose and Settle (as far as in me lies) the precipitate Thoughts of rash and unthinking Men, who at this time seem to be fermented into a restless Concern for they know not what, and to be as it were Hag<g ref="char:EOLhyphen"/>ridden with a kind of State-Bigotism, they Dream Waking, and Groan under a Phantastick Load of Chimera's, meer Vapour raised from their own crude and indigested Thoughts.</p>
+            <p>And because I would not have this Discourse swell to too great a bulk, so as to discourage the Reader at first sight. I will chuse for my Subject the present War that is declared between <hi>England</hi> and <hi>France;</hi> and the better to comply with my Title, I will Address my self first to <hi>Roman Catholicks,</hi> and the rather, be<g ref="char:EOLhyphen"/>cause they seem most to be dissatisfied at the present Transactions in <hi>Europe.</hi>
+            </p>
+            <p>Those that are conversant in the History of <hi>Chri<g ref="char:EOLhyphen"/>stendom,</hi> cannot but know, that the Kings of <hi>France</hi> first received the Title of <hi>[Most CHRISTIAN]</hi> from the Bishops of <hi>Rome,</hi> on the account of the signal and eminent Services they had done to that <hi>See,</hi> and the whole <hi>Western</hi> Church, by strenuous<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:98011:3"/>opposing the Incursions of the <hi>Goths</hi> and <hi>Vandals,</hi> who like a mighty Torrent were over-running all <hi>Christendom;</hi> so that had it not been for the match<g ref="char:EOLhyphen"/>less Valour of the <hi>French</hi> Armies, all <hi>Italy</hi> itself was near lost: Hence also they were stiled <hi>Eldest Sons of the Church;</hi> and the <hi>Roman</hi> Pontiffs graced them with many Favours and Priviledges, beyond other Princes, as Acknowledgments of their Merit. Thus flourish'd that Crown for many Centuries, the Scourge of <hi>Infidels,</hi> Patron of the Church, Envy of Neigh<g ref="char:EOLhyphen"/>bouring Nations, and Darling of the Chief Bishop: but of later Years the Case is alter'd, the Tide turn'd, and that glorious Title beforementioned, seems al<g ref="char:EOLhyphen"/>most as fit for the <hi>Grand Seigniour,</hi> as for him who now possesses it: that Eldest Son of the Church is now become Rebellious, that Patron is turn'd Perse<g ref="char:EOLhyphen"/>cutor, that Enemy of <hi>Infidels</hi> now shakes hands with them, that Darling is now deservedly out of Favour not only with the Pope, but almost with all <hi>Christen<g ref="char:EOLhyphen"/>dom:</hi> His Confederacy with the <hi>Turks,</hi> his breaking the Treaty of <hi>Nimeghen,</hi> his ill-tim'd Incursions into the Empire, then actually engaged in a War with the <hi>Ot<g ref="char:EOLhyphen"/>tomans,</hi> his injurious Dealing with the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain,</hi> the Elector <hi>Palatine,</hi> the Prince of <hi>Orange,</hi> in fine, his accumulated Tyrannies, Oppressions and Per<g ref="char:EOLhyphen"/>secutions, his repeated Affronts and Oppositions to the Pope, and Interest of the <hi>Roman</hi> Church, have render'd him justly Odious in the sight of all honest Men of that Communion, and have stirred up most of the Princes and States in <hi>Europe</hi> to make open War against him; among whom his present Majesty King <hi>William</hi> has been pleased to Interest himself, ha<g ref="char:EOLhyphen"/>ving published a Declaration of War against <hi>France</hi> the 11th of this instant <hi>May</hi> 1689.</p>
+            <pb n="4" facs="tcp:98011:4"/>
+            <p> I believe all men of sence among the <hi>Catholicks</hi> are satisfied as to the Justice of this War; even the ve<g ref="char:EOLhyphen"/>ry Subjects of <hi>France</hi> it self wish for a delivery from the present Bondage and Slavery they groan under: therefore I need not enlarge upon that Theme, one<g ref="char:EOLhyphen"/>ly it may be presumed, that some over-zealous Mem<g ref="char:EOLhyphen"/>bers of that Communion, not rightly understanding the Consequences of the general Preparations and Ap<g ref="char:EOLhyphen"/>proaches which are every-where making against <hi>France,</hi> and not relishing well the Declaration of a Protestant King against a Crown and Kingdom in Communion with the <hi>Roman</hi> Church; I say, they may be disgusted, and out of pure Zeal may imagine that the Interest of the Church will be weakned, if so considerable a Member of it, as <hi>France</hi> is, should be crush'd (as in all likelihood it will) by so many po<g ref="char:EOLhyphen"/>tent Adversaries. But pray, <hi>Gentlemen,</hi> give me leave to Expostulate a little with you; Do you think the Emperour of <hi>Germany</hi> comes short of you in his Zeal for the <hi>Catholic Religion?</hi> Is not the King of <hi>Spain</hi> as much Devoted to the Interest of the Church, as any of your Communion? And yet these are both joyntly engaged against the King of <hi>France.</hi> Or, what say you to the Pope himself, who is esteemed the Father of the Church? You are sensible how far he is concern<g ref="char:EOLhyphen"/>ed in abetting and encouraging the present War a<g ref="char:EOLhyphen"/>gainst <hi>France:</hi> He no doubt has in many repeated in<g ref="char:EOLhyphen"/>stances found that the Grandeur of the <hi>French</hi> Crown cannot consist with the Church's Interest: Witness the Decrees of some late Assemblies and Convocations of the <hi>French</hi> Clergy, when they voted against several established Doctrines of the <hi>Roman</hi> Church, and even against Infallibility itself, being influenced by the Pro<g ref="char:EOLhyphen"/>mises and Threatnings, the Insinuations and Com<g ref="char:EOLhyphen"/>mands of the Great Disturber of <hi>Christendom,</hi> whose
+<pb n="5" facs="tcp:98011:4"/>Humors and Caprichio's must over-rule all Law and Justice; and a <hi>Sic Volo, sic Jubeo,</hi> must supercede the very Pandects of the Church, thus sacrificing all things both Humane and Sacred to his own exorbitant Am<g ref="char:EOLhyphen"/>bition. Can you imagine now that the Pope does not consult the common Good of <hi>Christendom,</hi> in being so forward to quell the monstrous Pride of <hi>France?</hi> In my Opinion you ought to acquiesce to his Conduct in this, as well as you do in other cases of this nature.</p>
+            <p>Besides it is well known, that the House of <hi>Austria</hi> (of which the <hi>German</hi> Emperours and Kings of <hi>Spain</hi> are most illustrious Branches) have for these two last Centuries at least, been the main Support not only of the Papacy, but of the whole <hi>Western</hi> Church; the one being the Bulwark of <hi>Christendom</hi> against the <hi>Turks,</hi> the other bravely stemming the Tides of <hi>Moorish</hi> Invasi<g ref="char:EOLhyphen"/>ons. Look but into the present <hi>Turkish</hi> War, with what a formidable Army did the <hi>Ottomans</hi> Invest the Imperial City <hi>Vienna,</hi> and how bravely were they Re<g ref="char:EOLhyphen"/>pulsed? For how many Years has the <hi>German</hi> Eagle pursued them through all their Nests in <hi>Hungary?</hi> With what indefatigable Pains has she broke through the Toils of War? And now Triumphantly Displays her Wings within the Verge of the <hi>Ottoman</hi> Court! And if she now, after all these Grand Fatigues, do Crop the Unprofitable Lilly, will you repine? A Lilly grown to such a Height and Rankness, as with its Baneful Shaddow to destroy the Neighbouring Flowers, and to become a general Annoyance in the Garden of <hi>Europe.</hi>
+            </p>
+            <p>To conclude, if you understand and value the True Interest of the Church, and prefer the common Good of <hi>Christendom</hi> to your own private Inclinations and Profits, if you are not byass'd with some fond Compas<g ref="char:EOLhyphen"/>sion or Self-love, you cannot but approve of what has been said; since what you loose in the Pound, you gain
+<pb n="6" facs="tcp:98011:5"/>in the Hundred; and by the Fall of <hi>France</hi> all <hi>Chri<g ref="char:EOLhyphen"/>stendom</hi> rises, and recovers its ancient Lustre and Glory, which was neer Eclips'd by the Interposition of this growing Meteor. In short, if I understand Play, the Cards are now managed by the best Gamesters in <hi>Eu<g ref="char:EOLhyphen"/>cope,</hi> I mean of your own side: and I question not, but they know how to nick the Advantage of this juncture, and Shuffle them with that dexterity, as, let Fortune cut where she pleases, the best Hand shall fall to the <hi>Church;</hi> who, no doubt, will improve it so well that, <hi>Ni fru<g ref="char:EOLhyphen"/>stra Augurium vani docuere Parentes,</hi> she will not one<g ref="char:EOLhyphen"/>ly maintain her newly recover'd Ground in <hi>Hungary</hi> and elsewhere, but in all probability may from the re<g ref="char:EOLhyphen"/>sult of this League gather such strength, as will gain her more sooting than she has lost these hundred Years before.</p>
+            <p>And now acccording to my promised Method, I am obliged to shew the <hi>Protestants,</hi> how they are like to be Gainers by this War, which seems to me an easie task; since by the same proportion that <hi>Roman Catho<g ref="char:EOLhyphen"/>licks</hi> may promise to themselves a more general and firm Establishment of their Church from the success of the <hi>Consederated Catholick Princes</hi> against <hi>France,</hi> by the same may the <hi>Protestants</hi> assure themselves of a more flourishing and prosperous State of their Religion from the success of the <hi>Confederated Protestant Princes:</hi> Neither will these different Roligions interfere, or ob<g ref="char:EOLhyphen"/>struct one another, the Interests of State being abstract<g ref="char:EOLhyphen"/>ed from those of Religion, where divers Nations of se<g ref="char:EOLhyphen"/>veral Religions are united in a League against one com<g ref="char:EOLhyphen"/>mon Enemy, tho' each particular Religion at the same time is protected by the State where it is profess'd: To speak more plainly, <hi>France</hi> is deservedly esteem'd the common Enemy to the general Interests both of <hi>Roman Catholicks</hi> and <hi>Protestants;</hi> therefore both <hi>Catho<g ref="char:EOLhyphen"/>lick</hi>
+               <pb n="7" facs="tcp:98011:5"/>and <hi>Protestant</hi> Princes and States are united against her. Now where the <hi>Catholick</hi> Religion is establish'd, there will its Interest al<g ref="char:EOLhyphen"/>so be strengthened by the Downfal of <hi>France,</hi> as in <hi>Italy, Germany, Spain,</hi> &amp;c. by the same rule, where the <hi>Protestant</hi> Religion is settled, there also will it be more strongly confirmed by the Ruine of the Common Spoiler; as in <hi>England, Holland, Brandenburgh, Saxony,</hi> &amp;c. They all fight <hi>Pro Aris &amp; Focis,</hi> for Religion and Property, and each Particular will have a proportionable share in the success. But to draw my Discourse toward a Period, let us consider our own Na<g ref="char:EOLhyphen"/>tion, and the present Circumstances it lies under.</p>
+            <p>Before the late Revolution in this Government, the King of <hi>France</hi> seemed to maintain a fair Correspondence with the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and though the <hi>French</hi> Faction were always plotting and con<g ref="char:EOLhyphen"/>triving one Mischief or other against this Nation, yet their Intrigues were managed with a great deal of secrecy; all their Machinations were cover'd with the mask of Friendship; and as we use to say, they put a good face on a bad matter: But since King <hi>James</hi> Deserted the Kingdom, they found there was no more insinuating in the <hi>English</hi> Court, they could not any longer Cajole us with specious Pretences, and smile in our Faces whilst they cut our Throats; therefore they were resolved to lay aside the Vizard, and appear in their own Colours; and taking advantage of King <hi>James</hi> his Application to the <hi>French</hi> Court, under pretence of Assisting him, they commit all acts of Hosti<g ref="char:EOLhyphen"/>lity against, us by Sea and Land, Seizing our Ships, Imprisoning the <hi>English,</hi> Invading <hi>Ireland,</hi> and designing to Land with a great Army in <hi>England</hi> also, if not prevented by the hearty and unanimous Reso<g ref="char:EOLhyphen"/>lution of the Subjects of this Nation, to stand by one another against this Troubler of the World. To obviate this approaching Danger, His Majesty King <hi>William</hi> has been pleased to declare open War a<g ref="char:EOLhyphen"/>gainst <hi>France,</hi> as I have already said, and is making all Preparations requisite to carry it on: Now there are a sort of People, who out of Tenderness to King <hi>James,</hi> may endeavour to possess themselves and others with an opinion, that if they should take up Arms against the <hi>French,</hi> they should fight against him who was once their Soveraign, since they are made to believe, that the late Conquest of <hi>Ireland</hi> by the <hi>French</hi> Forces, is nothing else but the Restoring King <hi>James</hi> to his Right in that Kingdom; and after the same manner do they conceive of the designed Invasion of this our Country by the <hi>French.</hi> But they seem to lie under a great mistake, since it is plain by their Conduct in <hi>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reland,</hi> that the <hi>French</hi> King does but abuse the Trust which King <hi>James</hi> reposes in him, and under the pretext of Assisting and Restor<g ref="char:EOLhyphen"/>ing him, has render'd himself Absolute Master of that Nation: This <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s apparent from matter of Fact, since Monsieur <hi>d' Avaux</hi> rules the bast there, placing and displacing whom he pleases in Military and
+<pb n="8" facs="tcp:98011:6"/>Civil Employments, only for a blind they make use of King <hi>James</hi> his Name, but assume all the Power and Authority to themselves. And no question but the case would be the same, if ever they should Land in <hi>England.</hi> Now it is possible for a man to have an affecti<g ref="char:EOLhyphen"/>on for King <hi>James,</hi> and yet at the same time not to be willing to espouse the Interest of a Potent Enemy, by being gull'd into a be<g ref="char:EOLhyphen"/>lief that it is King <hi>James</hi> his Quarrel. I believe many men of ge<g ref="char:EOLhyphen"/>nerous Tempers, look on King <hi>James</hi> his Misfortunes, with a great deal of Compassion, who at the same time would abhor that such a Compassion should make them betray their Country to the <hi>French</hi> King: Besides, we are obliged to oppose the <hi>French</hi> King, as our Na<g ref="char:EOLhyphen"/>tion is concerned in the general League against that Ambitious Mo<g ref="char:EOLhyphen"/>narch, a League altogether previous to the Misfortunes of King <hi>James,</hi> a League into which 'tis probable he himself would have enter'd, had he tarried longer in the Nation.</p>
+            <p>In short, I see no other way to avoid inevitable Slavery, than by carrying on this War with all Vigor and Resolution, like true <hi>Eng<g ref="char:EOLhyphen"/>lish</hi>-men, so shall we secure our Liberties and Properties, our Reli<g ref="char:EOLhyphen"/>gion and Laws, our Lives and Estates, and whatsoever is dear to us in this World, all which we are in danger to loose if the <hi>French</hi> once prevail in this Nation: Then we shall be reduced to Poverty and Misery, then we shall be Pill'd and Poll'd, Taxt and Fleec'd, trampled on and abused by our new Lords and Masters the <hi>French,</hi> whereas if we heartily unite our Forces against them, we shall not only escapee all these Tragical Consequences, but also have a share in the Conquest of that Kingdom, and so recover the Glory of our Renowned An<g ref="char:EOLhyphen"/>cestors.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98011:6"/>
+            <head>A CATALOGUE Of some <hi>Books lately Printed for</hi> R. Baldwin.</head>
+            <p>THE History of the most Illustrious <hi>William,</hi> Prince of <hi>Orange:</hi> deduc'd from the first Founders of the Ancient House of <hi>Nassau:</hi> Together with the most Considerable Actions of this Present Prince.</p>
+            <p>Fourteen Papers, viz. 1. <hi>A Letter from a Gentleman in</hi> Ireland, <hi>to his Friend in</hi> London, <hi>upon occasion of a Pamplet Entituled,</hi> A Vindica<g ref="char:EOLhyphen"/>tion of the present Government of <hi>Ireland,</hi> under his Excellenoy <hi>Richard</hi> Earl of <hi>Tyreonnel.</hi> 2. <hi>A Letter from a Freeholder, to the rest of the Freeholders of</hi> England, <hi>and all Others, who have Votes in the Choice of Parliament-Men.</hi> 3. <hi>An Enquiry into the Reasons for Abrogating the Test imposed on all Members of Parliament. Offered by</hi> S. Ox. 4. <hi>Re<g ref="char:EOLhyphen"/>flections on a late Pamphlet Entituled,</hi> Parliomentum Pacificum. <hi>Li<g ref="char:EOLhyphen"/>censed by the Earl of</hi> Sunderland, <hi>and Printed at</hi> London <hi>in</hi> March 1688. 5. <hi>A Letter to a Dissenter, upon occasion of his Majesties late Gracious Declaration of Indulgence.</hi> 6. <hi>The Anatomy of an Equivalent.</hi> 7. <hi>A Letter from a Clergy-man in the City, to his Friend in the Country, containing his Reasons for not Reading the Declaration.</hi> 8. <hi>An Answer to the City Minister's Letter, from his Country Friend.</hi> 9. <hi>A Letter to a Dissenter from his Friend at the</hi> Hague, <hi>concerning the Penal Laws, and the Test; shewing, that the Popular Plea for Liberty of Conscience, is not concerned in that Question.</hi> 10. <hi>A plain Account of the Persecu<g ref="char:EOLhyphen"/>tion laid to the Charge of the Church of</hi> England. 11. <hi>Abby and other Church-Lands, not Assured to such Possessors as are</hi> Roman <hi>Catholicks; Dedicated to the Nobility and Gentry of that Religion.</hi> 12. <hi>The King's Power in Ecclesiastical Matters truly Stated.</hi> 13. <hi>A Letter of several</hi> French <hi>Ministers fled into</hi> Germany <hi>upon the account of the Persecution in</hi> France, <hi>to such of their Brethren in</hi> England <hi>as approved the King's Declaration touching Liberty of Conscience. Translated from the Origi<g ref="char:EOLhyphen"/>nal in</hi> French. 14. <hi>Papish Treaties not to be Rely'd on: In a Letter
+<pb facs="tcp:98011:7"/>from a Gentleman at</hi> York, <hi>to his Friend in the Prince of</hi> Orange<hi>'s Camp: Addressed to all Members of the next Parliament.</hi>
+            </p>
+            <p>The Way to Peace amongst all Protestants: Being a Letter of Re<g ref="char:EOLhyphen"/>conciliation sent by Bishop <hi>Ridley</hi> to Bishop <hi>Hooper,</hi> with some Obser<g ref="char:EOLhyphen"/>vations upon it. By <hi>Samuel Johnson.</hi>
+            </p>
+            <p>Purgatory Prov'd by Miracles: Collected out of <hi>Roman</hi> Catholick Authors. With some remarkable Histories relating to <hi>British, English</hi> and <hi>Irish</hi> Saints. With a Preface concerning Miracles. By <hi>S. Johnson.</hi>
+            </p>
+            <p>An Historical Relation of several Great and Learned Romanists who did imbrace the Protestant Religion, with their Reasons for their Change, deliver'd in their own Words. Collected chiefly from the most eminent Historians of the <hi>Roman</hi> Perswasion. To which is ad<g ref="char:EOLhyphen"/>ded, a Catalogue of sundry-great Persons of the <hi>Roman</hi> Catholick Re<g ref="char:EOLhyphen"/>ligion, who have all along oppos'd the Tenets of the Church of <hi>Rome.</hi>
+            </p>
+            <p>The Character of a Trimmer: His Opinion of 1. The Laws and Government. 2. Protestant Religion. 3. The Papists. 4. Foreign Affairs. By the Honourable Sir <hi>W. Coventry.</hi>
+            </p>
+            <p>A Seasonable Discourse, shewing the Unreasonableness and Mischiefs of Impositions in matters of Religion, recommended to serious Consi<g ref="char:EOLhyphen"/>deration. By Mr. <hi>Andr. Marvell,</hi> a late Member of the Honourable House of Commons.</p>
+            <p>The Revolter. A Trage-Comedy acted between the <hi>Hind</hi> and <hi>Panter,</hi> and <hi>Religio Laici,</hi> &amp;c.</p>
+            <p>The Absolute Necessity of Standing by the Present Government: or, a View of what both Church-men and Dissenters must Expect, if by their Unhappy Divisions Popery and Tyranny should return a<g ref="char:EOLhyphen"/>gain.</p>
+            <p>An Impartial Relation of the Illegal Proceedings against St. <hi>Mary Magdalen</hi> Colledge in <hi>Oxon,</hi> in the Year of our Lord 1687, containing only Matters of Fact as they occurred. Collected by a Fellow of the said Colledge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
